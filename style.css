@@ -25,3 +25,10 @@
     .section {
       margin: 1rem 0;
     }
+#link_main_page {
+      width: 200px;
+      height: 50px;
+      border: 1px solid black;
+      color: black;
+      background-color: white;
+}
