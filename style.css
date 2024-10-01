@@ -10,9 +10,11 @@
 }
 
 #link_main_page {
-      width: 200px;
+      width: 30%;
+      margin-left: 35%;
       height: 50px;
       border: 1px solid black;
+      border-radius: 10px;
       color: black;
-      background-color: grey;
+      background-color: white;
 }
