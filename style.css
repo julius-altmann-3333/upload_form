@@ -9,8 +9,11 @@
       background-color: #f8f9fa; /* Light grey background */
       border: 1px solid #dee2e6; /* Light grey border */
       padding: 1rem;
-
     }
+
+#button_box {
+      height: 400px;
+}
 
 #link_main_page {
       width: 200px;
