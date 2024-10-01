@@ -1,3 +1,7 @@
+.section {
+      margin: 1rem 0;
+    }
+
 .content-container {
       max-width: 1200px;
       height: 200px;
@@ -10,21 +14,7 @@
       justify-content: center;
       text-align: center;
     }
-    .content-container {
-      max-width: 1200px;
-      height: auto;
-      margin: 0 auto;
-      background-color: #f8f9fa; /* Light grey background */
-      border: 1px solid #dee2e6; /* Light grey border */
-      padding: 1rem;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-    }
-    .section {
-      margin: 1rem 0;
-    }
+
 #link_main_page {
       width: 200px;
       height: 50px;
